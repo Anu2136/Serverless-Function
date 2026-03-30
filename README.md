@@ -48,7 +48,7 @@ Click **Create Function**.
 
 ### Screenshot
 
-![Lambda Function Created](Lambda%20function%20created.png)
+![Lambda Function Created](Lambda%20function%20creted.png)
 
 ------------------------------------------------------------------------
 
