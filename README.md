@@ -48,7 +48,7 @@ Click **Create Function**.
 
 ### Screenshot
 
-![Lambda Function Created](Lambda function created.png)
+![Lambda Function Created](Lambda%20function%20created.png)
 
 ------------------------------------------------------------------------
 
@@ -144,7 +144,7 @@ If successful, the status will show:
 
 ### Screenshot
 
-![Lambda Test](Lambda Test Result.png)
+![Lambda Test](Lambda%20Test%20Result.png)
 
 ------------------------------------------------------------------------
 
@@ -159,7 +159,7 @@ If successful, the status will show:
 
 ### Screenshot
 
-![API Gateway](API Gateway.png)
+![API Gateway](API%20Gateway.png)
 
 ------------------------------------------------------------------------
 
@@ -173,7 +173,7 @@ Connect it with the Lambda function.
 
 ### Screenshot
 
-![API Route](API GateWay Routes.png)
+![API Route](API%20GateWay%20Routes.png)
 
 ------------------------------------------------------------------------
 
@@ -189,7 +189,7 @@ After deployment AWS generates an endpoint like:
 
 ### Screenshot
 
-![API Endpoint](API stages.png)
+![API Endpoint](API%20stages.png)
 
 ------------------------------------------------------------------------
 
@@ -202,7 +202,7 @@ serverless API is working successfully.
 
 ### Screenshot
 
-![Final Output](API endpoint result.png)
+![Final Output](API%20endpoint%20result.png)
 
 ------------------------------------------------------------------------
 
