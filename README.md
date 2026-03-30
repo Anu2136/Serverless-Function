@@ -52,7 +52,7 @@ Click **Create Function**.
 
 ------------------------------------------------------------------------
 
-# 5. Step 2 -- Add Lambda Code
+#  Step 2 -- Add Lambda Code
 
 Open the code editor and paste the following code.
 
@@ -134,7 +134,7 @@ Click **Deploy**.
 
 ------------------------------------------------------------------------
 
-# 6. Step 3 -- Test Lambda Function
+#  Step 3 -- Test Lambda Function
 
 1.  Click **Test**
    
@@ -148,7 +148,7 @@ If successful, the status will show:
 
 ------------------------------------------------------------------------
 
-# 7. Step 4 -- Create API Gateway
+#  Step 4 -- Create API Gateway
 
 1.  Open **API Gateway**
 2.  Click **Create API**
@@ -163,7 +163,7 @@ If successful, the status will show:
 
 ------------------------------------------------------------------------
 
-# 8. Step 5 -- Create Route
+#  Step 5 -- Create Route
 
 Create route:
 
@@ -177,7 +177,7 @@ Connect it with the Lambda function.
 
 ------------------------------------------------------------------------
 
-# 9. Step 7 -- Deploy API
+#  Step 6 -- Deploy API
 
 Create stage name:
 
@@ -193,7 +193,7 @@ After deployment AWS generates an endpoint like:
 
 ------------------------------------------------------------------------
 
-# 10. Final Output
+#  Final Output
 
 Open the API endpoint in browser.
 
@@ -206,7 +206,7 @@ serverless API is working successfully.
 
 ------------------------------------------------------------------------
 
-# 11. Conclusion
+# 4. Conclusion
 
 This project demonstrates how serverless computing works using AWS.\
 The Lambda function executes code without managing servers, and API
